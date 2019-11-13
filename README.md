@@ -1,1 +1,3 @@
-# weblogic
+# maven-project
+
+Simple Maven Project
